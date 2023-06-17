@@ -7,3 +7,5 @@ Principale ressource pédagogiques:
 Pour plus d' information sur les routes :https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes#route_parameters les liens à la fin du chapitres peuvent-êtres utiles
 
 TODO: nodemon, impossible (imcapable) à configurer pour l' instant.
+
+Exclure le 'node-modules'
