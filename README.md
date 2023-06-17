@@ -8,4 +8,4 @@ Pour plus d' information sur les routes :https://developer.mozilla.org/en-US/doc
 
 TODO: nodemon, impossible (imcapable) à configurer pour l' instant.
 
-Exclure le 'node-modules'
+TIPS: Exclure le 'node-modules'
