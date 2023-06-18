@@ -5,7 +5,8 @@ block content
 
   ul
     each author in author_list
-      li #{author.first_name} #{author.family_name}
+      li 
+      a(href=author.url) #{author.first_name} #{author.family_name}
 
     else
       li There are no authors.
